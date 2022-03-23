@@ -1,0 +1,9 @@
+/.idea/
+/.ipynb_checkpoints
+/venv
+/STTM/dataset
+/STTM/results
+/dataPretreatment/__pycache__/
+/dataPretreatment/sen2vec/__pycache__/
+/dataset
+/model/dataset
