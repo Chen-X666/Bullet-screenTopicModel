@@ -7,3 +7,5 @@
 /dataPretreatment/sen2vec/__pycache__/
 /dataset
 /model/dataset
+/dataPretreatment/sen2vec/word2vec/util/__pycache__/
+/dataPretreatment/sen2vec/word2vec/algorithms/__pycache__/
